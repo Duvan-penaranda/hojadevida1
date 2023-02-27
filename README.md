@@ -1,7 +1,9 @@
 # hojadevida1
 **MI HOJA DE VIDA**
-<img src=![IMG_20230227_081223](https://user-images.githubusercontent.com/126476714/221577900-f793721c-dad0-4255-9b82-ee7a57ada2bb.jpg) width="100" height="100" />
-![IMG_20230227_081223](https://user-images.githubusercontent.com/126476714/221577900-f793721c-dad0-4255-9b82-ee7a57ada2bb.jpg)
+
+
+<img src= "https://user-images.githubusercontent.com/126476714/221577900-f793721c-dad0-4255-9b82-ee7a57ada2bb.jpg" width="100" height="100" />
+
 **Duvan Peñaranda**
 
 |**Nombre Completo**|Duvan David Peñaranda Perez|
@@ -14,7 +16,3 @@
 |**ESCUELA**|INSTITUCION EDUCATIVA DISTRITAL DE CARRIZAL|
 |-----------|-------------------------------------------|
 |**SENA**|ADSO|
-
-
-
-
